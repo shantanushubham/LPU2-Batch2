@@ -1,0 +1,31 @@
+section.login {
+  text-align: center;
+}
+
+.form-div {
+  padding: 0.5vh 0;
+}
+
+label.form-label {
+  color: rgb(37, 107, 154);
+  margin-right: 10px;
+}
+
+input.form-input {
+  padding: 5px 15px;
+  background-color: rgb(235, 241, 245);
+  border-radius: 10px;
+  border: 0px;
+  border: 0;
+}
+
+button.btn {
+  color: white;
+  background-color: rgb(37, 107, 154);
+  margin: 0.5vh 0;
+  padding: 5px 15px;
+  outline: none;
+  cursor: pointer;
+  border: 0px;
+  border-radius: 5px;
+}

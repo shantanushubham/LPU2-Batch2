@@ -1,0 +1,14 @@
+.nav-bar {
+  background-color: rgb(28, 90, 131);
+  color: white;
+  display: flex;
+  padding: 2vh 0;
+}
+
+a {
+  text-decoration: none;
+}
+.nav-item {
+  margin: auto 20px;
+  color: white;
+}
